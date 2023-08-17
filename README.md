@@ -1,6 +1,6 @@
 # Parking-management-using-ANPR-CNN-for-nepali-number-plates
 A project created for minor project for parking management system using ANPR for number plate detection and CNN for character recognition in python.
-The ANPR was performed using the YOLOv3 model in order to detect the number plates. In order to detect the numbers and characters within the number plate, CNN was used and the characters were extracted. According to the characters recognized, the vehicle type is identified and displayed accordingly.
+The ANPR was performed using the pretrained model of YOLOv3 model in order to detect the number plates. In order to detect the numbers and characters within the number plate, CNN was used and the characters were extracted. According to the characters recognized, the vehicle type is identified and displayed accordingly.
 The dataset used for training CNN : https://www.kaggle.com/datasets/pankajdawadi/nepali-lp-dataset?fbclid=IwAR18g-q1F-vxpBrjgFhfCIXFrBm_PhOj9AoHGtADlCEjroYKCEd7V-kzab8
 
 Here are the final results of the project:
