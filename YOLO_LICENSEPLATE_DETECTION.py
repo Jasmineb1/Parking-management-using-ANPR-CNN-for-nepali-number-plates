@@ -15,7 +15,7 @@ class_names_path = os.path.join('.', 'model', 'class.names')
 op_dir_path = 'E:/ANPRintegrationtry/cropped/'
 
 def plate_detection():
-    img_path= 'E:/minor final/integration/dataset(straight)/8.jpg'
+    img_path= 'E:/minor final/integration/img/8.jpg'
     #for img_name in os.listdir(input_dir):
     #img_path = os.path.join(input_dir,img_name)
 
