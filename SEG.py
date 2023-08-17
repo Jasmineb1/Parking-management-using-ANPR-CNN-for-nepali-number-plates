@@ -13,7 +13,7 @@ from YOLO_LICENSEPLATE_DETECTION import plate_detection
 def segmentation():
     # Read the image and convert to grayscale
     image= plate_detection()
-    #image = cv2.imread('2.jpg')
+    #image = cv2.imread(img\8.jpg)
     gray = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
     plt.imshow(gray)
     plt.show()
